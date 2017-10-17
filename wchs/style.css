@@ -1,0 +1,128 @@
+@charset "utf-8";
+body{
+	background: radial-gradient(#C5B358, #756829, black);
+	text-align: center;
+	font-family: 'Crimson Text', serif;
+	
+}
+.navigation ul {
+	margin-bottom: 0px;
+	padding-bottom: 0px;
+}
+
+.header {
+	border: thick solid #27259E;
+}
+
+.staff {
+	-webkit-box-shadow: 0 0 #5B5959;
+	box-shadow: 0 0 #5B5959;
+	background-color: #000000;
+	border: thin solid #000000;
+	 
+
+}
+.headerimage {
+}
+#crewnames {
+}
+.crewnames {
+	font-weight: bold;
+	
+}
+.crewpicsdiv {
+	float: left;
+	margin-right: 5%;
+	text-align: center;
+	align-content: center;
+}
+.crewpicsdiv2 {
+	padding-left: 125px;
+}
+
+
+
+
+.h1 {
+	font-family: crimson-text;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 62px;
+	bottom: 0px;
+	text-align: center;
+	height: auto;
+	overflow-y: visible;
+	position: relative;
+}
+.ul {
+	text-decoration: underline;
+	margin-left: 0px;
+	text-align: center;
+	padding-left: 790px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+.twitter-timeline {
+    width:300px;
+    height:300px;
+    margin-top:3px;
+    margin-right:5%;
+    float:right;
+    background:#707070;
+    text-align: center;
+}
+.videodescription {
+	padding-bottom: 101px;
+	padding-right: 446px;
+	font-weight: bold;
+}
+.crewpics {
+	padding-bottom: 101px;
+	align-content: center;
+	text-align: center;
+	padding-left: 150px;
+}
+#footerpics {
+	border-top: medium solid rgba(0,0,0,1.00);
+}
+#socialmedia {
+	padding-bottom: 101px;
+}
+#aboutdescription {
+	padding-left: 300px;
+	padding-right: 300px;
+	padding-bottom: 101px;
+}
+#crewnames {
+}
+
+@media (max-width:768px){
+.ul {
+	min-width: 0px;
+	max-width: 768px;
+}
+body img {
+}
+body div script {
+}
